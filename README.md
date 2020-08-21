@@ -4,9 +4,9 @@
 
 <h3> Информация о сайте</h3> 
 <p>
-Автор макета сайта: Anastasia Shaposhnyk, 2017. Все права защищены.
-Вёрстка сайта: Андрей Овчаров (Datosh Code);
-E-mail: ovcharov.a@ukr.net;
+Автор макета сайта: Anastasia Shaposhnyk, 2017. Все права защищены.<br>
+Вёрстка сайта: Андрей Овчаров (Datosh Code);<br>
+E-mail: ovcharov.a@ukr.net;<br>
 Дата вёрстки: 20.08.2020.
 </p>
 <p>
