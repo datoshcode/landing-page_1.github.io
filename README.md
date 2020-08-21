@@ -18,5 +18,7 @@ E-mail: ovcharov.a@ukr.net;<br>
 </p>
 
 <h3>Ссылки на сайт и исходники</h3>
-<p> Сайт: https://datoshcode.github.io/landing-page_1.github.io/</p>
+<p> 
+  <a href="https://datoshcode.github.io/landing-page_1.github.io/" target="_blank">Сайт</a>
+</p>
 <p> Архив с исходниками (source): </p>
