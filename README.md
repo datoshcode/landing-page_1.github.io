@@ -21,4 +21,4 @@ E-mail: ovcharov.a@ukr.net;<br>
 <p> 
   Сайт: https://datoshcode.github.io/landing-page_1.github.io/
 </p>
-<p> Архив с исходниками (source): </p>
+<p> Архив с исходниками (source): https://github.com/datoshcode/landing-page_1.github.io/raw/master/source/source_landing_20.08.2020.rar </p>
