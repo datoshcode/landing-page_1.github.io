@@ -1,5 +1,3 @@
-# landing-page_1.github.io
-
 <h2>Лендинг пейдж №1 "Комплексное закрытие предприятия"</h2>
 
 <h3> Информация о сайте</h3> 
@@ -20,5 +18,5 @@ E-mail: ovcharov.a@ukr.net;<br>
 </p>
 
 <h3>Ссылки на сайт и исходники</h3>
-<p> Сайт: </p>
+<p> Сайт: https://datoshcode.github.io/landing-page_1.github.io/</p>
 <p> Архив с исходниками (source): </p>
